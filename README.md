@@ -1,4 +1,4 @@
-📚 Meus estudos em C
+## 📚 Meus estudos em C
 
 Projeto simples feito para aprender lógica de programação em C.
 
@@ -8,10 +8,10 @@ Projeto simples feito para aprender lógica de programação em C.
 
 `idade.c` → verifica se a pessoa é menor, adulto ou idoso
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 Linguagem C
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Adriel
